@@ -6,6 +6,7 @@ body{
     background-image: url('./images/bg-desktop.png');
     background-repeat: no-repeat;
     background-position: 0 320px;
+    background-size: cover;
     font-family: 'Raleway', sans-serif;;
     font-size: 14px;
 }
